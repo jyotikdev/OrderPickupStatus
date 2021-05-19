@@ -6,7 +6,7 @@ permalink: .well-known/apple-app-site-association
 {
     "appclips": {
         "apps": [
-            "267B67N48A.com.squareup.hackweek.OrderPickupStatus.SquareOrderStatus
+            "267B67N48A.com.squareup.hackweek.OrderPickupStatus.SquareOrderStatus"
         ]
     }
 }
